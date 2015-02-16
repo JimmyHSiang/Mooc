@@ -1,4 +1,4 @@
-#Course 1
+##Course 1
 ##Pattern Discovery in Data Mining
 ###This course will be covering the following topics:
 
