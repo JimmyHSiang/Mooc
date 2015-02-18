@@ -1,0 +1,6 @@
+---
+title: "Data Analysis with R-Lecture 1"
+author: "Jimmy HSiang"
+date: "Wednesday, February 18, 2015"
+output: html_document
+---
