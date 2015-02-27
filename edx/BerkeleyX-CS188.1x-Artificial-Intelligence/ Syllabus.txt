@@ -1,0 +1,91 @@
+Spring 2015 Syllabus
+
+Week	Day(mm/dd)	Topic	Slides	Video	Assignment	Due(mm/dd)
+1	2/6-2/12	Introduction to AI
+Overview
+Agents: Perception, Decisions, and Actuation
+small
+large	
+Lec 1  
+720p 
+360p
+
+Python Refresher	(ungraded)
+2	2/13-2/19	Search and Planning
+Uninformed Search (Depth-First, Breadth-First, Uniform-Cost)
+Informed Search (A*, Greedy Search)
+Heuristics and Optimality
+small
+large
+
+Lec 2 
+720p 
+360p
+
+Lec 3 
+720p 
+360p
+
+HW1: Search 	2/22
+3	2/20-2/26	Project 1: Search and Planning			P1: Search	3/1
+4	2/27-3/5	Constraint Satisfaction Problems
+Backtracking Search
+Constraint Propagation (Forward Checking, Arc Consistency)
+Exploiting Graph Structure
+small
+large
+
+Lec 4 
+720p
+360p
+
+Lec 5 
+720p
+360p
+
+HW2: CSPs	3/8
+5	3/6-3/12	Game Trees and Decision Theory
+Game Trees and Tree-Structured Computation
+Minimax, Expectimax, Combinations
+Evaluation Functions and Approximations
+Alpha-Beta Pruning
+Decision Theory
+Preferences, Rationality, and Utilities
+Maximum Expected Utility
+small
+large
+
+Lec 6
+
+Lec 7
+
+HW3: Games	3/15
+6	3/13-3/19	Project 2: Game Trees and Decision Theory			P2: Multi-Agent 
+Games	 3/22
+7	3/20-3/26	Markov Decision Processes (MDPs)
+Policies, Rewards, and Values
+Value Iteration
+Policy Iteration
+small
+large
+
+Lec 8
+
+Lec 9
+
+HW4: MDPs	3/29
+8	3/27-4/2	Reinforcement Learning (RL)
+TD/Q Learning
+Exploration
+Approximation
+small
+large
+
+Lec 10
+
+Lec 11
+
+HW5: RL	4/5
+9	4/3-4/9	Project 3: Reinforcement Learning (RL)			P3: RL	4/12
+10	4/10-4/16	Conclusion and Wrap-Up			Practice Finals	 (ungraded)
+11	4/17-4/23	No Lecture, Final Exam Week			Final	4/26
